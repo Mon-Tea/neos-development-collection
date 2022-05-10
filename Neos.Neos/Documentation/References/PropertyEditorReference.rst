@@ -125,7 +125,6 @@ It takes all the same configuration options as the inline rich text editor under
               formatting:
                 strong: true
                 em: true
-                u: true
                 sub: true
                 sup: true
                 del: true
